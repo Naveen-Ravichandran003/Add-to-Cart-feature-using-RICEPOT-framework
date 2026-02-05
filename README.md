@@ -15,12 +15,6 @@ This project utilizes the **RICEPOT** framework to ensure high-quality, structur
 - **O - Output**: High-density structured test cases in multiple formats.
 - **T - Tone**: Professional, structured, and risk-focused.
 
-## 📂 Project Artifacts
-The following files have been generated as part of this project:
-
-| File Name | Description | Suggested Use |
-| :--- | :--- | :--- |
-| **[Detailed Test Execution Report](#-detailed-test-execution-report)** | The full test report in this README. | **Tap here to view the report directly on Git.** |
 
 ## 🧪 Test Coverage
 The suite includes **30 Test Cases** covering:

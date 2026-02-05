@@ -1,4 +1,4 @@
-Add to Cart Feature Testing (RICEPOT Framework)
+# Add to Cart Feature Testing (RICEPOT Framework)
 
 ## 📌 Project Overview
 This project focuses on designing a comprehensive test suite for the **"Add to Cart"** feature of the [StackDemo](https://www.bstackdemo.com/) e-commerce application. 
